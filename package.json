@@ -1,0 +1,27 @@
+{
+  "name": "10---LIRI-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duskat/10---LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duskat/10---LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/duskat/10---LIRI-Bot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "file-system": "^2.2.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
+  }
+}
